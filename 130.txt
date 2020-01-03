@@ -1,0 +1,114 @@
+lib/libcam.utils.so 
+75 lib/libcam.paramsmgr.so 
+76 lib/libaed.so 
+77 lib/libcameracustom.so 
+78 lib/libcam_camera_exif.so 
+79 lib/libmatv_cust.so 
+80 lib/libfeatureio.so 
+81 lib/libcamalgo.so 
+82 lib/libmtk_drvb.so 
+83 lib/lib3a.so 
+84 lib/libcam.client.so 
+85 lib/libmpo.so 
+86 lib/libmpoencoder.so 
+87 lib/libcam.camshot.so 
+88 lib/libcam.campipe.so 
+89 lib/libcam.camadapter.so 
+90 lib/libJpgEncPipe.so 
+91 # lib/libjpeg.so 
+92 # lib/libmmfactoryutil.so 
+93 lib/libblisrc.so 
+94 lib/libspeech_enh_lib.so 
+95 lib/libaudiosetting.so 
+96 lib/libaudiocompensationfilter.so 
+97 lib/libbessound_mtk.so 
+98 # lib/libmedia.so 
+99 # lib/libvcodec_oal.so 
+100 # lib/libvcodec_utility.so 
+101 # lib/libsched.so 
+102 # lib/libmp4enc_xa.ca7.so 
+103 
+ 
+104 lib/libbluetoothdrv.so 
+105 lib/libbluetooth_mtk.so 
+106 
+ 
+107 bin/hald 
+108 bin/wlan_loader 
+109 bin/6620_launcher 
+110 bin/stp_dump3 
+111 bin/ccci_mdinit 
+112 bin/ccci_fsd  
+113 bin/permission_check 
+114 bin/muxreport  
+115 bin/rild 
+116 bin/rildmd2 
+117 bin/pppd_dt 
+118 bin/pppd  
+119 
+ 
+120 bin/nvram_daemon 
+121 bin/nvram_agent_binder 
+122 lib/libnvram.so 
+123 lib/libcustom_nvram.so 
+124 lib/libnvram_daemon_callback.so 
+125 lib/libfile_op.so 
+126 lib/libhwm.so  
+127 lib/librilmtk.so 
+128 lib/mtk-ril.so 
+129 
+ 
+130 bin/msensord 
+131 bin/ami304d 
+132 bin/memsicd 
+133 bin/akmd8975 
+134 bin/akmd8963 
+135 bin/bmm050d 
+136 bin/orientationd 
+137 bin/geomagneticd 
+138 bin/thermal 
+139 bin/thermal_manager 
+140 
+ 
+141 bin/mtk_agpsd 
+142 xbin/mnld 
+143 xbin/libmnlp_mt6628 
+144 lib/libssladp.so 
+145 etc/gps.conf 
+146 etc/agps_profiles_conf.xml 
+147 
+ 
+148 etc/.tp/.ht120.mtc 
+149 etc/.tp/thermal.conf 
+150 etc/.tp/thermal.off.conf 
+151 etc/throttle.sh 
+152 
+ 
+153 etc/firmware/mt6628_patch_e2_1_hdr.bin 
+154 etc/firmware/WIFI_RAM_CODE_E6 
+155 etc/firmware/mt6628/mt6628_fm_v2_coeff.bin 
+156 etc/firmware/mt6628/mt6628_fm_v4_coeff.bin 
+157 etc/firmware/mt6628/mt6628_fm_v3_coeff.bin 
+158 etc/firmware/mt6628/mt6628_fm_v5_patch.bin 
+159 etc/firmware/mt6628/mt6628_fm_v2_patch.bin 
+160 etc/firmware/mt6628/mt6628_fm_v4_patch.bin 
+161 etc/firmware/mt6628/mt6628_fm_v1_coeff.bin 
+162 etc/firmware/mt6628/mt6628_fm_v3_patch.bin 
+163 etc/firmware/mt6628/mt6628_fm_rom.bin 
+164 etc/firmware/mt6628/mt6628_fm_v1_patch.bin 
+165 etc/firmware/mt6628/mt6628_fm_v5_coeff.bin 
+166 etc/firmware/mt6628_ant_m1.cfg 
+167 etc/firmware/mt6628_patch_e2_0_hdr.bin 
+168 etc/firmware/modem.img 
+169 etc/firmware/mt6628_patch_e1_hdr.bin 
+170 etc/firmware/WIFI_RAM_CODE 
+171 etc/firmware/S_ANDRO_SFL.ini 
+172 etc/firmware/WIFI_RAM_CODE_MT6628 
+173 etc/firmware/catcher_filter.bin 
+174 etc/firmware/WMT.cfg 
+175 etc/firmware/ft5206/tinno-fts-update-jiemian.bin 
+176 
+ 
+177 etc/audio_policy.conf 
+178 etc/audio_effects.conf 
+179 etc/mtk_omx_core.cfg 
